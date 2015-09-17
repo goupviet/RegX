@@ -94,13 +94,13 @@
                     <!--Query-->
                     <StackPanel>
                         <Label Content="Query:" />
-                        <TextBox Background="#9BFFFFFF" Height="50" Name="Query" KeyUp="Query_KeyUp" TextChanged="QueryChanged" />
+                        <TextBox Background="#9BFFFFFF" Margin="3" Height="50" Name="Query" KeyUp="Query_KeyUp" TextChanged="QueryChanged" />
                     </StackPanel>
 
                     <!--Replacement-->
                     <StackPanel>
                         <Label Content="Replace With:"/>
-                        <TextBox Background="#9BFFFFFF" Name="ReplaceWith" />
+                        <TextBox Margin="3" Background="#9BFFFFFF" Name="ReplaceWith" />
                     </StackPanel>
 
                     <!--Control Buttons and Timespan-->

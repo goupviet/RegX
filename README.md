@@ -1,5 +1,6 @@
 # RegX
-Regex Parser
+[![Build status](https://ci.appveyor.com/api/projects/status/jb2s8gx5n2ctb7xh?svg=true)](https://ci.appveyor.com/project/MathewSachin/regx)  
+A Regex Parser Tool for instantly checking your Regex
 
 Examples
 ---------------------------------------
